@@ -1,116 +1,116 @@
-town,variant,is_canonical,latitude,longitude
-attard,attard,TRUE,35.8897,14.4425
-attard,attard road,FALSE,35.8897,14.4425
-attard,h attard,FALSE,35.8897,14.4425
-balzan,balzan,TRUE,35.9006,14.4542
-birkirkara,birkirkara,TRUE,35.8972,14.4611
-birzebbuga,birzebbuga,TRUE,35.8258,14.5275
-birzebbuga,birzebbugia,FALSE,35.8258,14.5275
-birzebbuga,birzebbuga road,FALSE,35.8258,14.5275
-birzebbuga,gharr dalam,FALSE,35.8258,14.5275
-bugibba,bugibba,TRUE,35.9494,14.4125
-cospicua,cospicua,TRUE,35.885,14.5242
-cospicua,cospicua road,FALSE,35.885,14.5242
-cospicua,cospicua seafront,FALSE,35.885,14.5242
-dingli,dingli,TRUE,35.8617,14.3825
-fgura,fgura,TRUE,35.8719,14.515
-floriana,floriana,TRUE,35.8969,14.5058
-ghajnsielem,ghajnsielem,TRUE,36.0264,14.2858
-gharb,gharb,TRUE,36.0631,14.2097
-gharghur,gharghur,TRUE,35.9236,14.4525
-ghaxaq,ghaxaq,TRUE,35.8508,14.5183
-ghaxaq,hal ghaxaq,FALSE,35.8508,14.5183
-ghaxaq,haz ghaxaq,FALSE,35.8508,14.5183
-ghaxaq,il ghaxaq,FALSE,35.8508,14.5183
-gozo,gozo,TRUE,36.0444,14.2417
-gudja,gudja,TRUE,35.8492,14.5033
-gudja,il gudja,FALSE,35.8492,14.5033
-gwardamangia,gwardamangia,TRUE,35.8958,14.4875
-gwardamangia,guardamangia,FALSE,35.8958,14.4875
-gzira,gzira,TRUE,35.905,14.495
-gzira,il gzira,FALSE,35.905,14.495
-hamrun,hamrun,TRUE,35.885,14.4858
-iklin,iklin,TRUE,35.9092,14.4556
-kalkara,kalkara,TRUE,35.8908,14.5317
-kirkop,kirkop,TRUE,35.8417,14.485
-lija,lija,TRUE,35.9008,14.4467
-luqa,luqa,TRUE,35.8592,14.4883
-marsa,marsa,TRUE,35.8803,14.4967
-marsascala,marsascala,TRUE,35.8617,14.5633
-marsascala,marsaskala,FALSE,35.8617,14.5633
-marsaxlokk,marsaxlokk,TRUE,35.8417,14.545
-mellieha,mellieha,TRUE,35.9564,14.3622
-mgarr,mgarr,TRUE,35.9186,14.3656
-mosta,mosta,TRUE,35.9092,14.4256
-mqabba,mqabba,TRUE,35.8458,14.47
-msida,msida,TRUE,35.8969,14.4867
-msida,mikiel anton vassalli,FALSE,35.8969,14.4867
-mtarfa,mtarfa,TRUE,35.8894,14.3956
-nadur,nadur,TRUE,36.0394,14.2944
-naxxar,naxxar,TRUE,35.9364,14.4436
-paola,paola,TRUE,35.8731,14.5003
-pembroke,pembroke,TRUE,35.9308,14.4767
-pieta,pieta,TRUE,35.8958,14.495
-pieta,ta pieta,FALSE,35.8958,14.495
-qala,qala,TRUE,36.0361,14.3117
-qormi,qormi,TRUE,35.8761,14.4703
-qormi,hal qormi,FALSE,35.8761,14.4703
-qrendi,qrendi,TRUE,35.8344,14.4567
-rabat,rabat,TRUE,35.8817,14.3989
-san gwann,san gwann,TRUE,35.9089,14.4783
-san pawl il bahar,san pawl il bahar,TRUE,35.9506,14.4158
-san pawl il bahar,st paul s bay,FALSE,35.9506,14.4158
-san pawl il bahar,st pauls bay,FALSE,35.9506,14.4158
-san pawl il bahar,saint pauls bay,FALSE,35.9506,14.4158
-san pawl il bahar,st paul s bay bypass,FALSE,35.9506,14.4158
-sannat,sannat,TRUE,36.0264,14.2636
-santa lucija,santa lucija,TRUE,35.8631,14.5044
-santa lucija,santa lucia,FALSE,35.8631,14.5044
-santa venera,santa venera,TRUE,35.8908,14.4756
-siggiewi,siggiewi,TRUE,35.8553,14.4378
-sliema,sliema,TRUE,35.9122,14.5025
-sliema,tas sliema,FALSE,35.9122,14.5025
-st julian,st julian,TRUE,35.9186,14.49
-st julian,st julians,FALSE,35.9186,14.49
-st julian,saint julian,FALSE,35.9186,14.49
-swieqi,swieqi,TRUE,35.9222,14.4789
-ta qali,ta qali,TRUE,35.8908,14.4214
-ta xbiex,ta xbiex,TRUE,35.8992,14.4958
-tarxien,tarxien,TRUE,35.8656,14.5142
-valletta,valletta,TRUE,35.8989,14.5136
-victoria,victoria,TRUE,36.0444,14.2417
-victoria,rabat gozo,FALSE,36.0444,14.2417
-xaghra,xaghra,TRUE,36.0506,14.2675
-xemxija,xemxija,TRUE,35.9644,14.3803
-xewkija,xewkija,TRUE,36.0333,14.2581
-xghajra,xghajra,TRUE,35.8867,14.5475
-zabbar,zabbar,TRUE,35.8764,14.5381
-zabbar,haz zabbar,FALSE,35.8764,14.5381
-zebbug,zebbug,TRUE,35.8719,14.4411
-zebbug,haz zebbug,FALSE,35.8719,14.4411
-zebbug gozo,zebbug gozo,TRUE,36.0719,14.2408
-zejtun,zejtun,TRUE,35.8561,14.5331
-zurrieq,zurrieq,TRUE,35.8306,14.4742
-zurrieq,blue grotto avenue,FALSE,35.8306,14.4742
-gwardamangia,gwardamanga,FALSE,35.8958,14.4875
-zabbar,haz-zabbar,FALSE,35.8764,14.5381
-zebbug,haz-zebbug,FALSE,35.8719,14.4411
-san pawl il bahar,bahar ic-caghaq,FALSE,35.9506,14.4158
-valletta,bidnija,FALSE,35.8989,14.5136
-valletta,blata l-bajda,FALSE,35.8989,14.5136
-cospicua,bormla,FALSE,35.885,14.5242
-valletta,lentini,FALSE,35.8989,14.5136
-valletta,marsalforn,FALSE,35.8989,14.5136
-valletta,rahal il-gdid,FALSE,35.8989,14.5136
-valletta,salini,FALSE,35.8989,14.5136
-san pawl il bahar,san pawl,FALSE,35.9506,14.4158
-cospicua,senglea,FALSE,35.885,14.5242
-valletta,senj,FALSE,35.8989,14.5136
-st julian,st julian's,FALSE,35.9186,14.49
-santa venera,sta venera,FALSE,35.8908,14.4756
-pieta,tal-pieta,FALSE,35.8958,14.495
-pieta,pieta',FALSE,35.8958,14.495
-attard,h'attard,FALSE,35.8894,14.4428
-san pawl il bahar,st pauls bay,FALSE,35.9506,14.4158
-san pawl il bahar,st paul's bay,FALSE,35.9506,14.4158
-san pawl il bahar,st. pauls bay,FALSE,35.9506,14.4158
+town,variant,is_canonical
+attard,attard,TRUE
+attard,attard road,FALSE
+attard,h attard,FALSE
+attard,h'attard,FALSE
+balzan,balzan,TRUE
+birkirkara,birkirkara,TRUE
+birzebbuga,birzebbuga,TRUE
+birzebbuga,birzebbugia,FALSE
+birzebbuga,birzebbuga road,FALSE
+birzebbuga,gharr dalam,FALSE
+bugibba,bugibba,TRUE
+cospicua,cospicua,TRUE
+cospicua,cospicua road,FALSE
+cospicua,cospicua seafront,FALSE
+cospicua,bormla,FALSE
+cospicua,senglea,FALSE
+dingli,dingli,TRUE
+fgura,fgura,TRUE
+floriana,floriana,TRUE
+ghajnsielem,ghajnsielem,TRUE
+gharb,gharb,TRUE
+gharghur,gharghur,TRUE
+ghaxaq,ghaxaq,TRUE
+ghaxaq,hal ghaxaq,FALSE
+ghaxaq,haz ghaxaq,FALSE
+ghaxaq,il ghaxaq,FALSE
+gudja,gudja,TRUE
+gudja,il gudja,FALSE
+gwardamangia,gwardamangia,TRUE
+gwardamangia,guardamangia,FALSE
+gwardamangia,gwardamanga,FALSE
+gzira,gzira,TRUE
+gzira,il gzira,FALSE
+hamrun,hamrun,TRUE
+iklin,iklin,TRUE
+kalkara,kalkara,TRUE
+kirkop,kirkop,TRUE
+lija,lija,TRUE
+luqa,luqa,TRUE
+marsa,marsa,TRUE
+marsascala,marsascala,TRUE
+marsascala,marsaskala,FALSE
+marsaxlokk,marsaxlokk,TRUE
+mellieha,mellieha,TRUE
+mgarr,mgarr,TRUE
+mosta,mosta,TRUE
+mqabba,mqabba,TRUE
+msida,msida,TRUE
+mtarfa,mtarfa,TRUE
+nadur,nadur,TRUE
+naxxar,naxxar,TRUE
+paola,paola,TRUE
+pembroke,pembroke,TRUE
+pieta,pieta,TRUE
+pieta,ta pieta,FALSE
+pieta,tal-pieta,FALSE
+pieta,pieta',FALSE
+qala,qala,TRUE
+qormi,qormi,TRUE
+qormi,hal qormi,FALSE
+qrendi,qrendi,TRUE
+rabat,rabat,TRUE
+san gwann,san gwann,TRUE
+san pawl il bahar,san pawl il bahar,TRUE
+san pawl il bahar,st paul s bay,FALSE
+san pawl il bahar,st pauls bay,FALSE
+san pawl il bahar,saint pauls bay,FALSE
+san pawl il bahar,st paul s bay bypass,FALSE
+san pawl il bahar,bahar ic-caghaq,FALSE
+san pawl il bahar,san pawl,FALSE
+san pawl il bahar,st pauls bay,FALSE
+san pawl il bahar,st paul's bay,FALSE
+san pawl il bahar,st. pauls bay,FALSE
+sannat,sannat,TRUE
+santa lucija,santa lucija,TRUE
+santa lucija,santa lucia,FALSE
+santa venera,santa venera,TRUE
+santa venera,sta venera,FALSE
+siggiewi,siggiewi,TRUE
+sliema,sliema,TRUE
+sliema,tas sliema,FALSE
+st julian,st julian,TRUE
+st julian,st julians,FALSE
+st julian,saint julian,FALSE
+st julian,st julian's,FALSE
+swieqi,swieqi,TRUE
+ta qali,ta qali,TRUE
+ta xbiex,ta xbiex,TRUE
+tarxien,tarxien,TRUE
+valletta,valletta,TRUE
+bidnija,bidnija,TRUE
+blata l-bajda,blata l-bajda,TRUE
+marsalforn,marsalforn,TRUE
+paola,rahal il-gdid,FALSE
+naxxar,salini,FALSE
+victoria,victoria,TRUE
+victoria,rabat gozo,FALSE
+xaghra,xaghra,TRUE
+xemxija,xemxija,TRUE
+xewkija,xewkija,TRUE
+xghajra,xghajra,TRUE
+zabbar,zabbar,TRUE
+zabbar,haz zabbar,FALSE
+zabbar,haz-zabbar,FALSE
+zebbug,zebbug,TRUE
+zebbug,haz zebbug,FALSE
+zebbug,haz-zebbug,FALSE
+zebbug (gozo),zebbug gozo,FALSE
+zebbug (gozo),zebbug (gozo),TRUE
+zejtun,zejtun,TRUE
+zurrieq,zurrieq,TRUE
+zurrieq,blue grotto avenue,FALSE
+guardamangia,guardamangia,TRUE
+pembroke,pembroke,TRUE
+senglea,senglea,TRUE
