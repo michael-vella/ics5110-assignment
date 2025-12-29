@@ -176,9 +176,9 @@ triq il-wied ta birkirkara,triq il-wied ta' birkirkara,FALSE,birkirkara,,,
 triq il-wied ta birkirkara,triq il-wied ta birkirkara,TRUE,birkirkara,35.8964103,14.4631382,primary
 triq imrejkba,imrejkba street,FALSE,valletta,,,
 triq in-naxxar,triq in-naxxar,TRUE,birkirkara,35.8980141,14.4596416,primary
-triq ir-rabat,triq ir rabat,FALSE,zebbug,,,
-triq ir-rabat,triq-ir-rabat,FALSE,zebbug,,,
-triq ir-rabat,triq ir-rabat,FALSE,zebbug,,,
+triq ir-rabat,triq ir rabat,FALSE,zebbug (gozo),,,
+triq ir-rabat,triq-ir-rabat,FALSE,zebbug (gozo),,,
+triq ir-rabat,triq ir-rabat,FALSE,zebbug (gozo),,,
 triq ir-repubblika,triq ir-repubblika,TRUE,rabat,35.8828307,14.4007264,pedestrian
 triq isouard,triq isouard,TRUE,marsa,35.8826068,14.4874392,residential
 triq is-salina,triq is-salina,TRUE,naxxar,35.9369975,14.4339269,secondary
