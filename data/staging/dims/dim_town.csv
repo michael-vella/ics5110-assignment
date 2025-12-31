@@ -10,11 +10,13 @@ birzebbuga,birzebbugia,FALSE
 birzebbuga,birzebbuga road,FALSE
 birzebbuga,gharr dalam,FALSE
 bugibba,bugibba,TRUE
-cospicua,cospicua,TRUE
-cospicua,cospicua road,FALSE
-cospicua,cospicua seafront,FALSE
-cospicua,bormla,FALSE
-cospicua,senglea,FALSE
+bormla,bormla,TRUE
+bormla,cospicua,TRUE
+bormla,cospicua road,FALSE
+bormla,cospicua seafront,FALSE
+bormla,bormla,FALSE
+isla,isla,TRUE
+isla,senglea,FALSE
 dingli,dingli,TRUE
 fgura,fgura,TRUE
 floriana,floriana,TRUE
