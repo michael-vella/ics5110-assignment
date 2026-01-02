@@ -5,7 +5,6 @@ aldo moro road,marsa's aldo moro road,FALSE,marsa,,,
 aldo moro road,the busy aldo moro road,FALSE,marsa,,,
 aldo moro road,triq aldo moro,FALSE,marsa,,,
 attard road,attard road,TRUE,zebbug,35.8828703,14.4401592,primary
-balluta bay,balluta bay,TRUE,st julian,,,
 bella vista street,bella vista street,TRUE,san gwann,35.907253,14.4720292,secondary
 birkirkara bypass,birkirkara bypass,TRUE,birkirkara,35.9015668,14.4700501,trunk
 birzebbuga road,birzebbuga road,TRUE,birzebbuga,35.8417603,14.5279126,primary
@@ -55,49 +54,48 @@ triq mount carmel,triq mount carmel,TRUE,attard,35.89178,14.43792,secondary
 triq mount carmel,mount carmel hospital,FALSE,attard,,,
 mriehel bypass,mriehel bypass,TRUE,qormi,35.8881938,14.4639337,trunk
 naxxar road,naxxar road,TRUE,birkirkara,35.8980141,14.4596416,primary
-paola roundabout,paola roundabout,TRUE,paola,,,
+paola roundabout,paola roundabout,TRUE,paola,,,unknown
 pinto wharf,pinto wharf,TRUE,floriana,35.8902423,14.5081438,pedestrian
 regional road,regional road,TRUE,msida,35.9034355,14.4867323,trunk
 regional road,the regional road,FALSE,msida,,,
 regional road,triq nazzjonali,FALSE,msida,,,
 regional road,triq regjunali,FALSE,msida,,,
 republic street,republic street,TRUE,victoria,36.0442596,14.2429687,primary
-road leading to ghajn tuffieha,road leading to ghajn tuffieha,TRUE,mgarr,,,
-rudolph street,rudolph street,TRUE,sliema,,,
+road leading to ghajn tuffieha,road leading to ghajn tuffieha,TRUE,mgarr,,,unknown
+rudolph street,rudolph street,TRUE,sliema,35.91305,14.50263,residential
 rue d'argens,rue d'argens,TRUE,gzira,35.9066493,14.4936073,secondary
 rue d'argens,rue d'argens st,FALSE,gzira,,,
 sa maison street,sa maison,FALSE,pieta,,,
-sa maison street,sa maison street,TRUE,pieta,,,
+sa maison street,sa maison street,TRUE,pieta,35.90041,14.49378,primary
 saint john street,saint john street,TRUE,valletta,35.8976536,14.5120179,pedestrian
 saint john street,triq lepanto,FALSE,valletta,,,
-saqqajja hill roundabout,saqqajja hill roundabout,TRUE,rabat,,,
-st james square,st james square,TRUE,zabbar,,,
-st joseph high road,st joseph high road,TRUE,hamrun,,,
-st luke's square,st luke's square,TRUE,gwardamangia,,,
+saqqajja hill roundabout,saqqajja hill roundabout,TRUE,rabat,35.88498,14.39863,roundabout
+st james square,st james square,TRUE,zabbar,35.87334,14.53592,residential
+st joseph high road,st joseph high road,TRUE,hamrun,35.8888764,14.4780228,secondary
+st luke's square,st luke's square,TRUE,gwardamangia,35.88492,14.48063,square
 st luke's square,st lukes square,FALSE,guardamangia,,,
-st paul's roundabout,st paul's roundabout,TRUE,san pawl il bahar,,,
+st paul's roundabout,st paul's roundabout,TRUE,san pawl il bahar,35.95061,14.41462,roundabout
 st paul's roundabout,st pauls roundabout,FALSE,san pawl il bahar,,,
-ta' giorni tunnels,ta' giorni tunnels,TRUE,swieqi,,,
+ta' giorni tunnels,ta' giorni tunnels,TRUE,swieqi,35.89736,14.49371,primary
 tower road,tower road,TRUE,sliema,35.9148787,14.497752,secondary
 tower road,a section of tower road,FALSE,sliema,,,
 triq alfredo cachia zammit,triq alfredo cachia zammit,TRUE,zejtun,35.8565578,14.5306657,secondary
-triq anglu mikiel borg,triq anglu mikiel borg,TRUE,valletta,,,
 triq anglu mikiel borg,triq mikiel ang borg,FALSE,valletta,,,
 triq anton cassar,triq anton cassar,TRUE,marsa,35.8801056,14.4930563,residential
 triq anton cassar,anton cassar street,FALSE,marsa,,,
 triq bajada,triq bajada,TRUE,zabbar,35.8732767,14.5337517,residential
 triq birzebbuga,triq birzebbuga,TRUE,birzebbuga,35.829366,14.5285402,secondary
 triq borg gharib,triq borg gharib,TRUE,ghajnsielem,36.0313836,14.2920442,secondary
-triq bormla,triq bormla,TRUE,naxxar,,,
+triq bormla,triq bormla,TRUE,zabbar,35.87241,14.53628,residential
 triq buqana,triq buqana,TRUE,rabat,35.8919893,14.4089334,primary
 triq burmarrad,triq burmarrad,TRUE,san pawl il bahar,35.9246697,14.4160186,primary
 triq burmarrad,burmarrad street,FALSE,san pawl il bahar,,,
-triq c-cern,triq c-cern,TRUE,bugibba,,,
-triq censu tabone,triq censu tabone,TRUE,san pawl il bahar,,,
+triq c-cern,triq c-cern,TRUE,bugibba,35.95214,14.42463,residential
+triq censu tabone,triq censu tabone,TRUE,san pawl il bahar,35.94988,14.40962,residential
 triq dawret il-gudja,triq dawret il gudja,FALSE,gudja,,,
-triq dawret il-gudja,triq dawret il-gudja,TRUE,gudja,,,
+triq dawret il-gudja,triq dawret il-gudja,TRUE,gudja,35.84692,14.49538,secondary
 triq dawret il-mellieha,triq dawret il mellieha,FALSE,mellieha,,,
-triq dawret il-mellieha,triq dawret il-mellieha,TRUE,mellieha,,,
+triq dawret il-mellieha,triq dawret il-mellieha,TRUE,mellieha,35.95678,14.36241,secondary
 triq dicembru tlettax,triq dicembru tlettax,TRUE,marsa,35.8786271,14.4913829,trunk
 triq dun karm,triq dun karm,TRUE,msida,35.9003979,14.4751653,trunk
 triq dun karm,dun karm street,FALSE,msida,,,
@@ -109,11 +107,11 @@ triq ernle bradford,triq e. bradford,FALSE,naxxar,,,
 triq ghajn dwieli,triq ghajn dwieli,TRUE,paola,35.8772491,14.5138522,secondary
 triq ghar dalam,hal farrug road,FALSE,birzebbuga,,,
 triq ghar dalam,triq ghar dalam,TRUE,birzebbuga,35.8417603,14.5279126,primary
-triq ghar lapsi,triq ghar lapsi,TRUE,siggiewi,35.8277374,14.423228,bus_stop
-triq ghar tuffieha,triq ghajn tuffieha,TRUE,mgarr,,,
+triq ghar lapsi,triq ghar lapsi,TRUE,siggiewi,35.83321,14.43274,secondary
+triq ghar tuffieha,triq ghajn tuffieha,TRUE,mgarr,35.92241,14.34086,secondary
 triq gheriexem,triq gheriexem,TRUE,rabat,35.8847418,14.3972858,secondary
 triq gnien imrik,triq gnien imrik,TRUE,xaghra,36.0543328,14.2604896,residential
-triq guze howard,triq guze howard,TRUE,sliema,,,
+triq guze howard,triq guze howard,TRUE,sliema,35.91672,14.50203,residential
 triq guze howard,triq guze' howard,FALSE,sliema,,,
 triq guze howard,triq guze' howard corner with triq ghar id-dud,FALSE,sliema,,,
 triq hal farrug,triq hal farrug,TRUE,luqa,35.8566303,14.4685956,secondary
@@ -128,35 +126,35 @@ triq hompesch,hompesch street,FALSE,fgura,,,
 triq hompesch,triq hompesch,FALSE,fgura,,,
 triq ic-cern,triq ic-cern,TRUE,bugibba,35.9509624,14.4150454,residential
 triq il-bacir,triq il bacir,FALSE,paola,,,
-triq il-bacir,triq il-bacir,TRUE,paola,,,
+triq il-bacir,triq il-bacir,TRUE,paola,35.87541,14.51328,residential
 triq il-belt valletta,triq il-belt valletta,TRUE,zurrieq,35.8350408,14.4748324,primary
 triq il-belt valletta,triq il belt valletta,FALSE,zurrieq,,,
-triq il-bidnija,triq il bidnija,TRUE,mosta,,,
-triq il-buqana,triq il-buqana,TRUE,rabat,,,
-triq il-fortizza tal-mosta,triq il-fortizza tal-mosta,TRUE,naxxar,,,
+triq il-bidnija,triq il bidnija,TRUE,mosta,35.90987,14.42163,primary
+triq il-buqana,triq il-buqana,TRUE,rabat,35.87684,14.39321,secondary
+triq il-fortizza tal-mosta,triq il-fortizza tal-mosta,TRUE,naxxar,35.92741,14.45192,secondary
 triq il-fortizza tal-mosta,triq il fortizza tal mosta,FALSE,naxxar,,,
 triq il-germanja,triq il-germanja,TRUE,naxxar,35.9089538,14.440024,residential
 triq il gharghur,triq il-ghargur,FALSE,gharghur,,,
-triq il gharghur,triq il gharghur,TRUE,gharghur,,,
-triq il-hotba,triq il-hotba,TRUE,zejtun,,,
+triq il gharghur,triq il gharghur,TRUE,gharghur,35.92283,14.45291,secondary
+triq il-hotba,triq il-hotba,TRUE,zejtun,35.85592,14.53341,residential
 triq il-kannizzata,triq il-kannizzata,TRUE,balzan,35.8963504,14.4561623,residential
 triq il-kappella tax-xaghra,triq il-kappella ta' xaghra,FALSE,naxxar,,,
 triq il-kappella tax-xaghra,triq il kappella tax xaghra,FALSE,naxxar,,,
-triq il-kappella tax-xaghra,triq il-kappella tax-xaghra,TRUE,naxxar,,,
+triq il-kappella tax-xaghra,triq il-kappella tax-xaghra,TRUE,naxxar,35.91592,14.44063,residential
 triq il-kappella tax-xaghra,triq il-kappella ta xaghra,FALSE,naxxar,,,
-triq il-kappilan mifsud,triq il-kappilan mifsud,TRUE,hamrun,,,
+triq il-kappilan mifsud,triq il-kappilan mifsud,TRUE,hamrun,35.88641,14.48827,residential
 triq il-kappilan mifsud,triq il kappillan mifsud,FALSE,hamrun,,,
 triq il-kappilan mifsud,triq il-kappillan mifsud,FALSE,hamrun,,,
 triq il-kbira,triq il kbira,FALSE,mellieha,,,
-triq il-kbira,triq il-kbira,TRUE,mellieha,,,
-triq il-kilpa,triq il-kilpa,TRUE,siggiewi,,,
+triq il-kbira,triq il-kbira,TRUE,mellieha,35.95614,14.36102,primary
+triq il-kilpa,triq il-kilpa,TRUE,siggiewi,35.83247,14.43691,residential
 triq il-labour,labour avenue,FALSE,naxxar,,,
 triq il-labour,triq il labour,FALSE,naxxar,,,
-triq il-labour,triq il-labour,TRUE,naxxar,,,
+triq il-labour,triq il-labour,TRUE,naxxar,35.91438,14.44251,residential
 triq il-madliena,triq il madliena,FALSE,swieqi,,,
-triq il-madliena,triq il-madliena,TRUE,swieqi,,,
+triq il-madliena,triq il-madliena,TRUE,swieqi,35.92788,14.48096,primary
 triq il-marbat,triq il marbat,FALSE,valletta,,,
-triq il-marbat,triq il-marbat,TRUE,ghaxaq,,,
+triq il-marbat,triq il-marbat,TRUE,ghaxaq,35.84671,14.51892,residential
 triq il-marfa,triq il-marfa,TRUE,mellieha,35.9868811,14.329206,trunk
 triq il-marfa,triq marfa,FALSE,mellieha,,,
 triq il-marfa,marfa road,FALSE,mellieha,,,
@@ -165,25 +163,25 @@ triq il-mina ta hompesch,triq il-mina ta'hompesch,FALSE,zabbar,,,
 triq il-mina ta hompesch,triq il-mina ta hompesch,TRUE,zabbar,35.8719308,14.5295125,primary
 triq il-mina ta hompesch,triq il-mina tahompesch,FALSE,zabbar,,,
 triq il-mithna,triq il-mithna,TRUE,qormi,35.8830183,14.4734016,secondary
-triq il-mosta,triq il mosta,TRUE,lija,,,
+triq il-mosta,triq il-mosta,TRUE,lija,35.90084,14.44863,secondary
 triq il-palma,triq il-palma,TRUE,paola,35.8709648,14.5040803,tertiary
 triq il-pellikan,triq il pellikan,FALSE,san gwann,,,
-triq il-pellikan,triq il-pellikan,TRUE,san gwann,,,
+triq il-pellikan,triq il-pellikan,TRUE,san gwann,35.91172,14.47628,residential
 triq il-perit dom mintoff,triq il perit dom mintoff,FALSE,paola,,,
-triq il-perit dom mintoff,triq il-perit dom mintoff,TRUE,paola,,,
-triq il-professor walter ganado,triq il professor walter ganado,TRUE,msida,,,
+triq il-perit dom mintoff,triq il-perit dom mintoff,TRUE,paola,35.87596,14.51231,residential
+triq il-professur walter ganado,triq il-professur walter ganado,TRUE,msida,35.89742,14.48391,residential
 triq il-wied,triq il wied,FALSE,iklin,,,
-triq il-wied,triq il-wied,TRUE,iklin,,,
+triq il-wied,triq il-wied,TRUE,iklin,35.90473,14.45781,residential
 triq il-wied ta birkirkara,triq il-wied ta' birkirkara,FALSE,birkirkara,,,
 triq il-wied ta birkirkara,triq il-wied ta birkirkara,TRUE,birkirkara,35.8964103,14.4631382,primary
-triq imrejkba,triq imrejkba,TRUE,mosta,,,
+triq imrejkba,triq imrejkba,TRUE,san pawl il bahar,35.9525531,14.4189413,residential
 triq imrejkba,imrejkba street,FALSE,valletta,,,
 triq in-naxxar,triq in-naxxar,TRUE,birkirkara,35.8980141,14.4596416,primary
 triq ir-rabat,triq ir rabat,FALSE,zebbug (gozo),,,
 triq ir-rabat,triq-ir-rabat,FALSE,zebbug (gozo),,,
-triq ir-rabat,triq ir-rabat,TRUE,zebbug (gozo),,,
-triq ir-repubblika,triq ir-repubblika,TRUE,victoria,35.8828307,14.4007264,pedestrian
-triq isouard,triq isouard,TRUE,marsa,35.8826068,14.4874392,residential
+triq ir-rabat,triq ir-rabat,TRUE,zebbug (gozo),36.0672705,14.259524,secondary
+triq ir-repubblika,triq ir-repubblika,TRUE,victoria,35.8828307,14.4007264,primary
+triq isouard,triq isouard,TRUE,marsa,36.0442596,14.2429687,residential
 triq is-salina,triq is-salina,TRUE,naxxar,35.9369975,14.4339269,secondary
 triq is-salina,salina street,FALSE,naxxar,,,
 triq is-salina,triq is salina,FALSE,naxxar,,,
@@ -192,29 +190,29 @@ triq is-salina,triq is-salin,FALSE,naxxar,,,
 triq is-salina,salini street,FALSE,naxxar,,,
 triq is-sorijiet,triq is-sorijiet,TRUE,tarxien,35.8702636,14.5103851,residential
 triq it-turisti,triq it turisti,FALSE,san pawl il bahar,,,
-triq it-turisti,triq it-turisti,TRUE,san pawl il bahar,,,
+triq it-turisti,triq it-turisti,TRUE,san pawl il bahar,35.95031,14.40688,secondary
 triq ix-xaghra,triq ix-xaghra,TRUE,xaghra,36.0404174,14.2577713,primary
 triq ix-xatt,triq ix xatt,FALSE,gzira,,,
-triq ix-xatt,triq ix-xatt,TRUE,gzira,,,
+triq ix-xatt,triq ix-xatt,TRUE,gzira,35.89761,14.49392,secondary
 triq ix-xatt juan b azopardo,triq ix xatt juan,FALSE,isla,,,
 triq ix-xatt,triq ix-xatt,TRUE,ta xbiex,35.9016199,14.4948208,secondary
-triq ix-xatt juan b azopardo,triq ix xatt juan b azopardo,TRUE,isla,,,
+triq ix-xatt juan b azopardo,triq ix-xatt juan b azopardo,TRUE,isla,35.88794,14.51784,secondary
 triq ix-xatt juan b azopardo,triq ix-xatt juan b azopardo,FALSE,isla,,,
 triq ix-xatt juan b azopardo,Triq ix-Xatt Juan B Azopardo,FALSE,isla,,,
 triq ix-xatt juan b azopardo,triq ix-xatt juan b. azopardo,FALSE,isla,,,
 triq ix-xatt ta' xbiex,triq ix-xatt ta' xbiex,TRUE,ta xbiex,35.9016199,14.4948208,secondary
 triq ix-xatt ta' xbiex,triq ix-xatt ta xbiex,FALSE,ta xbiex,,,
 triq iz-zejfa,triq iz zejfa,FALSE,mosta,,,
-triq iz-zejfa,triq iz-zejfa,TRUE,mosta,,,
+triq iz-zejfa,triq iz-zejfa,TRUE,mosta,35.91211,14.41467,residential
 triq kordin,triq kordin,TRUE,paola,35.876336,14.5045036,residential
 Triq L. Zamenhof,triq l. zamenhof corner with triq xmiexi,FALSE,msida,,,
 Triq L. Zamenhof,Triq L. Zamenhof,TRUE,msida,35.8978569,14.484983,residential
-triq l-ewwel titjira,triq l-ewwel titjira,TRUE,luqa,,,
+triq l-ewwel titjira,triq l-ewwel titjira,TRUE,luqa,35.85691,14.48654,secondary
 triq l-ewwel titjira,triq l ewwel titjira,FALSE,luqa,,,
 triq l-gharb,triq l-gharb,TRUE,gharb,36.0527615,14.2205279,primary
 triq l-imdina,triq l-imdina,TRUE,zebbug,35.874767,14.4608589,trunk
 triq l-imgarr,triq l imgarr,FALSE,ghajnsielem,,,
-triq l-imgarr,triq l-imgarr,TRUE,ghajnsielem,,,
+triq l-imgarr,triq l-imgarr,TRUE,ghajnsielem,36.02573,14.29241,secondary
 triq l-imqabba,triq l-imqabba,TRUE,mqabba,35.8483999,14.4815704,primary
 triq manwel dimech,triq manwel dimech,TRUE,sliema,35.9110017,14.4967956,tertiary
 triq marsalforn,triq marsalforn,TRUE,xaghra,36.0613833,14.2551875,primary
@@ -222,7 +220,7 @@ triq marsaxlokk,triq marsaxlokk,TRUE,marsaxlokk,35.8469004,14.5314513,secondary
 triq melqart,triq melqart,TRUE,marsaxlokk,35.8431644,14.5429351,secondary
 triq mikiel anton vassalli,triq mikiel anton vassalli,TRUE,msida,35.8981962,14.4867393,trunk
 triq mikiel anton vassalli,mikiel anton vassalli street,FALSE,msida,,,
-triq mons mikiel azzopardi,triq mons mikiel azzopardi,TRUE,siggiewi,,,
+triq mons mikiel azzopardi,triq mons mikiel azzopardi,TRUE,siggiewi,35.83296,14.44018,residential
 triq mons mikiel azzopardi,triq mons mikel azzopardi,FALSE,siggiewi,,,
 triq parades,triq paredes,TRUE,bugibba,35.948315,14.4021162,tertiary
 triq president anton buttigieg,triq president anton buttigieg,TRUE,zejtun,35.8503003,14.532077,bus_stop
@@ -230,9 +228,9 @@ triq rodolfu,triq rodolfu,TRUE,sliema,35.9104721,14.4987943,tertiary
 triq salvu psaila,triq salvu psaila,TRUE,santa venera,35.8946852,14.4696987,secondary
 triq salvu psaila,psaila street,FALSE,santa venera,,,
 triq san anard,triq san anard,TRUE,tarxien,35.8626801,14.5167088,residential
-triq san gorg,triq san gorg,TRUE,valletta,,,
+triq san gorg,triq san gorg,TRUE,valletta,35.89842,14.51274,residential
 triq san gwann,triq san gwann,TRUE,sliema,35.9107529,14.5000793,residential
-triq san gwann bosco,triq san gwann bosco,TRUE,san gwann,,,
+triq san gwann bosco,triq san gwann bosco,TRUE,san gwann,35.91043,14.47869,residential
 triq san gwann t'ghuxa,triq san gwann t ghuxa,FALSE,birzebbuga,,,
 triq san gwann t'ghuxa,triq san gwann t'ghuxa,TRUE,birzebbuga,35.8777552,14.5191598,secondary
 triq san luqa,triq san luqa,TRUE,luqa,35.8563358,14.4861241,bus_stop
@@ -253,31 +251,32 @@ triq sir anthony mamo,triq sir anthony mamo,TRUE,birkirkara,35.9000642,14.475087
 triq sir anthony mamo,sir anthony mamo street,FALSE,birkirkara,,,
 triq sir philip pullicino,triq sir philip pullicino,TRUE,mtarfa,35.8903766,14.3931157,residential
 triq sir temi zammit,triq sir temi zammit,TRUE,mgarr,35.9240642,14.3752357,secondary
-triq spinola,triq spinola,TRUE,valletta,,,
+triq spinola,triq spinola,TRUE,valletta,35.89917,14.51463,residential
 triq ta lawrenti,triq ta' lawrenti,FALSE,siggiewi,,,
-triq ta lawrenti,triq ta lawrenti,TRUE,siggiewi,,,
+triq ta lawrenti,triq ta lawrenti,TRUE,siggiewi,35.83388,14.43712,residential
 triq tal-balal,tal-balal road,FALSE,san gwann,,,
 triq tal-balal,triq tal balal,FALSE,san gwann,,,
-triq tal-balal,triq tal-balal,TRUE,san gwann,,,
+triq tal-balal,triq tal-balal,TRUE,san gwann,35.90892,14.47411,residential
 triq tal-barrani,tal-barrani road,FALSE,zejtun,,,
 triq tal-barrani,triq tal barrani,FALSE,zejtun,,,
-triq tal-barrani,triq tal-barrani,TRUE,zejtun,,,
+triq tal-barrani,triq tal-barrani,TRUE,zejtun,35.85431,14.52877,secondary
 triq tas-sliema,triq tas-sliema,TRUE,gzira,35.9052523,14.4905482,secondary
-triq taz-zellieqa,triq taz-zellieqa,TRUE,valletta,,,
+triq taz-zellieqa,triq taz-zellieqa,TRUE,valletta,35.89801,14.51129,residential
 triq taz-zellieqa,triq taz zellieqa,FALSE,valletta,,,
 triq villabate,triq villabate,TRUE,marsascala,35.8625547,14.5506421,primary
-triq wied bladun,triq wied bladun,TRUE,paola,,,
+triq wied bladun,triq wied bladun,TRUE,paola,35.87264,14.50788,residential
 triq zaghfran,triq zaghfran,TRUE,attard,35.8892272,14.4396691,trunk
 triq zaghfran,triq zafran,FALSE,attard,,,
-valley road,valley road,TRUE,valletta,,,
+valley road,valley road,TRUE,msida,35.89784,14.49012,secondary
 valley road,birkirkara valley road,FALSE,valletta,,,
 vjal il-helsien,vjal il-helsien,TRUE,zebbug,35.8736616,14.4449743,tertiary
 vjal il-helsien,vjal il-helsien,FALSE,zebbug,,,
 vjal l-istadium nazzjonali,vjal l-istadium nazzjonali,TRUE,attard,35.8905211,14.4223,secondary
-wignacourt aqueduct,wignacourt aqueduct,TRUE,birkirkara,,,
+triq notabile,triq notabile,TRUE,birkirkara,35.8931239,14.460722,residential
+triq notabile,wignacourt aqueduct,FALSE,birkirkara,,,
 xatt l-ghassara tal-gheneb,xatt l-ghassara tal-gheneb,TRUE,marsa,35.8863417,14.5019071,tertiary
 xemxija bypass,st. paul's bay bypass,FALSE,san pawl il bahar,,,
-xemxija bypass,xemxija bypass,TRUE,san pawl il bahar,,,
+xemxija bypass,xemxija bypass,TRUE,san pawl il bahar,35.9447417,14.3868918,trunk
 xemxija bypass,xemxija bypass,FALSE,san pawl il bahar,,,
 xemxija bypass,st pauls bay bypass,FALSE,san pawl il bahar,,,
 xemxija bypass,st paul's bay bypass,FALSE,san pawl il bahar,,,
