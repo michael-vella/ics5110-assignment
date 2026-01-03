@@ -1,118 +1,116 @@
-town,variant,is_canonical
-attard,attard,TRUE
-attard,attard road,FALSE
-attard,h attard,FALSE
-attard,h'attard,FALSE
-balzan,balzan,TRUE
-birkirkara,birkirkara,TRUE
-birzebbuga,birzebbuga,TRUE
-birzebbuga,birzebbugia,FALSE
-birzebbuga,birzebbuga road,FALSE
-birzebbuga,gharr dalam,FALSE
-bugibba,bugibba,TRUE
-bormla,bormla,TRUE
-bormla,cospicua,TRUE
-bormla,cospicua road,FALSE
-bormla,cospicua seafront,FALSE
-bormla,bormla,FALSE
-isla,isla,TRUE
-isla,senglea,FALSE
-dingli,dingli,TRUE
-fgura,fgura,TRUE
-floriana,floriana,TRUE
-ghajnsielem,ghajnsielem,TRUE
-gharb,gharb,TRUE
-gharghur,gharghur,TRUE
-ghaxaq,ghaxaq,TRUE
-ghaxaq,hal ghaxaq,FALSE
-ghaxaq,haz ghaxaq,FALSE
-ghaxaq,il ghaxaq,FALSE
-gudja,gudja,TRUE
-gudja,il gudja,FALSE
-gwardamangia,gwardamangia,TRUE
-gwardamangia,guardamangia,FALSE
-gwardamangia,gwardamanga,FALSE
-gzira,gzira,TRUE
-gzira,il gzira,FALSE
-hamrun,hamrun,TRUE
-iklin,iklin,TRUE
-kalkara,kalkara,TRUE
-kirkop,kirkop,TRUE
-lija,lija,TRUE
-luqa,luqa,TRUE
-marsa,marsa,TRUE
-marsascala,marsascala,TRUE
-marsascala,marsaskala,FALSE
-marsaxlokk,marsaxlokk,TRUE
-mellieha,mellieha,TRUE
-mgarr,mgarr,TRUE
-mosta,mosta,TRUE
-mqabba,mqabba,TRUE
-msida,msida,TRUE
-mtarfa,mtarfa,TRUE
-nadur,nadur,TRUE
-naxxar,naxxar,TRUE
-paola,paola,TRUE
-pembroke,pembroke,TRUE
-pieta,pieta,TRUE
-pieta,ta pieta,FALSE
-pieta,tal-pieta,FALSE
-pieta,pieta',FALSE
-qala,qala,TRUE
-qormi,qormi,TRUE
-qormi,hal qormi,FALSE
-qrendi,qrendi,TRUE
-rabat,rabat,TRUE
-san gwann,san gwann,TRUE
-san pawl il bahar,san pawl il bahar,TRUE
-san pawl il bahar,st paul s bay,FALSE
-san pawl il bahar,st pauls bay,FALSE
-san pawl il bahar,saint pauls bay,FALSE
-san pawl il bahar,st paul s bay bypass,FALSE
-san pawl il bahar,bahar ic-caghaq,FALSE
-san pawl il bahar,san pawl,FALSE
-san pawl il bahar,st pauls bay,FALSE
-san pawl il bahar,st paul's bay,FALSE
-san pawl il bahar,st. pauls bay,FALSE
-sannat,sannat,TRUE
-santa lucija,santa lucija,TRUE
-santa lucija,santa lucia,FALSE
-santa venera,santa venera,TRUE
-santa venera,sta venera,FALSE
-siggiewi,siggiewi,TRUE
-sliema,sliema,TRUE
-sliema,tas sliema,FALSE
-st julian,st julian,TRUE
-st julian,st julians,FALSE
-st julian,saint julian,FALSE
-st julian,st julian's,FALSE
-swieqi,swieqi,TRUE
-ta qali,ta qali,TRUE
-ta xbiex,ta xbiex,TRUE
-tarxien,tarxien,TRUE
-valletta,valletta,TRUE
-bidnija,bidnija,TRUE
-blata l-bajda,blata l-bajda,TRUE
-marsalforn,marsalforn,TRUE
-paola,rahal il-gdid,FALSE
-naxxar,salini,FALSE
-victoria,victoria,TRUE
-victoria,rabat gozo,FALSE
-xaghra,xaghra,TRUE
-xemxija,xemxija,TRUE
-xewkija,xewkija,TRUE
-xghajra,xghajra,TRUE
-zabbar,zabbar,TRUE
-zabbar,haz zabbar,FALSE
-zabbar,haz-zabbar,FALSE
-zebbug,zebbug,TRUE
-zebbug,haz zebbug,FALSE
-zebbug,haz-zebbug,FALSE
-zebbug (gozo),zebbug gozo,FALSE
-zebbug (gozo),zebbug (gozo),TRUE
-zejtun,zejtun,TRUE
-zurrieq,zurrieq,TRUE
-zurrieq,blue grotto avenue,FALSE
-guardamangia,guardamangia,TRUE
-pembroke,pembroke,TRUE
-senglea,senglea,TRUE
+town,variant,is_canonical,region
+attard,attard,TRUE,Central
+attard,attard road,FALSE,
+attard,h attard,FALSE,
+attard,h'attard,FALSE,
+balzan,balzan,TRUE,Central
+bidnija,bidnija,TRUE,Northern
+birkirkara,birkirkara,TRUE,Central
+birzebbuga,birzebbuga,TRUE,South Eastern
+birzebbuga,birzebbugia,FALSE,
+birzebbuga,birzebbuga road,FALSE,
+birzebbuga,gharr dalam,FALSE,
+blata l-bajda,blata l-bajda,TRUE,Central
+bormla,bormla,TRUE,Southern Harbour
+bormla,cospicua,TRUE,Southern Harbour
+bormla,cospicua road,FALSE,
+bormla,cospicua seafront,FALSE,
+bormla,bormla,FALSE,
+bugibba,bugibba,TRUE,Northern
+dingli,dingli,TRUE,Central
+fgura,fgura,TRUE,South Eastern
+floriana,floriana,TRUE,Southern Harbour
+ghajnsielem,ghajnsielem,TRUE,Gozo
+gharb,gharb,TRUE,Gozo
+gharghur,gharghur,TRUE,Central
+ghaxaq,ghaxaq,TRUE,South Eastern
+ghaxaq,hal ghaxaq,FALSE,
+ghaxaq,haz ghaxaq,FALSE,
+ghaxaq,il ghaxaq,FALSE,
+gudja,gudja,TRUE,South Eastern
+gudja,il gudja,FALSE,
+gwardamangia,gwardamangia,TRUE,Central
+gwardamangia,guardamangia,FALSE,
+gwardamangia,gwardamanga,FALSE,
+gzira,gzira,TRUE,Southern Harbour
+gzira,il gzira,FALSE,
+hamrun,hamrun,TRUE,Central
+iklin,iklin,TRUE,Central
+isla,isla,TRUE,Southern Harbour
+isla,senglea,FALSE,
+kalkara,kalkara,TRUE,Southern Harbour
+kirkop,kirkop,TRUE,South Eastern
+lija,lija,TRUE,Central
+luqa,luqa,TRUE,South Eastern
+marsa,marsa,TRUE,Southern Harbour
+marsalforn,marsalforn,TRUE,Gozo
+marsascala,marsascala,TRUE,South Eastern
+marsascala,marsaskala,FALSE,
+marsaxlokk,marsaxlokk,TRUE,South Eastern
+mellieha,mellieha,TRUE,Northern
+mgarr,mgarr,TRUE,Northern
+mosta,mosta,TRUE,Northern
+mqabba,mqabba,TRUE,South Eastern
+msida,msida,TRUE,Central
+mtarfa,mtarfa,TRUE,Central
+nadur,nadur,TRUE,Gozo
+naxxar,naxxar,TRUE,Northern
+naxxar,salini,FALSE,
+paola,paola,TRUE,Southern Harbour
+paola,rahal il-gdid,FALSE,
+pembroke,pembroke,TRUE,Northern
+pieta,pieta,TRUE,Southern Harbour
+pieta,ta pieta,FALSE,
+pieta,tal-pieta,FALSE,
+pieta,pieta',FALSE,
+qala,qala,TRUE,Gozo
+qormi,qormi,TRUE,Central
+qormi,hal qormi,FALSE,
+qrendi,qrendi,TRUE,South Eastern
+rabat,rabat,TRUE,Central
+san gwann,san gwann,TRUE,Central
+san pawl il bahar,san pawl il bahar,TRUE,Northern
+san pawl il bahar,st paul s bay,FALSE,
+san pawl il bahar,st pauls bay,FALSE,
+san pawl il bahar,saint pauls bay,FALSE,
+san pawl il bahar,st paul s bay bypass,FALSE,
+san pawl il bahar,bahar ic-caghaq,FALSE,
+san pawl il bahar,san pawl,FALSE,
+san pawl il bahar,st pauls bay,FALSE,
+san pawl il bahar,st paul's bay,FALSE,
+san pawl il bahar,st. pauls bay,FALSE,
+sannat,sannat,TRUE,Gozo
+santa lucija,santa lucija,TRUE,Southern Harbour
+santa lucija,santa lucia,FALSE,
+santa venera,santa venera,TRUE,Central
+santa venera,sta venera,FALSE,
+senglea,senglea,TRUE,Southern Harbour
+siggiewi,siggiewi,TRUE,Central
+sliema,sliema,TRUE,Northern
+sliema,tas sliema,FALSE,
+st julian,st julian,TRUE,Northern
+st julian,st julians,FALSE,
+st julian,saint julian,FALSE,
+st julian,st julian's,FALSE,
+swieqi,swieqi,TRUE,Northern
+ta qali,ta qali,TRUE,Northern
+ta xbiex,ta xbiex,TRUE,Central
+tarxien,tarxien,TRUE,Southern Harbour
+valletta,valletta,TRUE,Southern Harbour
+victoria,victoria,TRUE,Gozo
+victoria,rabat gozo,FALSE,
+xaghra,xaghra,TRUE,Gozo
+xemxija,xemxija,TRUE,Northern
+xewkija,xewkija,TRUE,Gozo
+xghajra,xghajra,TRUE,Southern Harbour
+zabbar,zabbar,TRUE,Southern Harbour
+zabbar,haz zabbar,FALSE,
+zabbar,haz-zabbar,FALSE,
+zebbug,zebbug,TRUE,Central
+zebbug,haz zebbug,FALSE,
+zebbug,haz-zebbug,FALSE,
+zebbug (gozo),zebbug gozo,FALSE,
+zebbug (gozo),zebbug (gozo),TRUE,Gozo
+zejtun,zejtun,TRUE,South Eastern
+zurrieq,zurrieq,TRUE,South Eastern
+zurrieq,blue grotto avenue,FALSE,
